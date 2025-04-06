@@ -51,7 +51,7 @@ This assignment explores the behavior of Deep Neural Networks (DNNs) by:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/DeepLearning-Assignment1-DNN-Activation-Depth](https://github.com/ab3lT/DL-Assignment1-DNN-Activation-Depth.git
+git clone https://github.com/ab3lT/DL-Assignment1-DNN-Activation-Depth.git
 cd DL-Assignment1-DNN-Activation-Depth
 
 # (Optional) Create a virtual environment
